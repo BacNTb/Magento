@@ -1,0 +1,9 @@
+{
+    "name": "aht/module-hello",
+    "description": "N/A",
+    "autoload": {
+        "psr-4": { "AHT\\Hello\\": "" },
+        "files": [ "registration.php" ]
+    }
+}
+   
